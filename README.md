@@ -2,5 +2,5 @@
 
 
 ### ✨ **Key Achievements**
-- **Mentor/Educator** for over 24 students, teaching certifications in **Linux (LPI 101/102), Java, JavaScript and Terraform**.
-- **DAO Category Winner** at the **Solana Sandstorm Hackathon**. Project focused on democratizing Solana validator creation via guaranteed NFTs.
+- **Solana Hackathon Winner:** Developed [Ingl](https://github.com/ingl-DAO), a protocol for fractionalizing Solana validators via NFTs.
+- **Mentorship:** Proud to have mentored 24 junior developers through various certifications.
