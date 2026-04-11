@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m Marco Kuidja ($\text{marcjazz}$)</h2>
+<h2 align="left">👋 Hi, I’m Marco Kuidja
 
 ### ✨ Key Achievements
 - **Solana Hackathon Winner:** Developed [Ingl](https://github.com/ingl-DAO), a protocol for fractionalizing Solana validators via NFTs.
